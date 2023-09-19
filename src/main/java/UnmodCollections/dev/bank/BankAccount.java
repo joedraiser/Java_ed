@@ -4,7 +4,7 @@ import UnmodCollections.dev.dto.Transaction;
 
 import java.util.Map;
 
-public class BankAccount {
+public class  BankAccount {
     enum AccountType {
         CHECKING, SAVINGS
     }
